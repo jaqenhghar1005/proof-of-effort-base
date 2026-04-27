@@ -10,3 +10,9 @@ Daily onchain check-in system with NFT rewards.
 
 ## Contract
 Deployed on Base
+## How it works
+
+1. User performs daily check-in
+2. Earns XP
+3. Builds streak
+4. Mints NFT after 5 days
