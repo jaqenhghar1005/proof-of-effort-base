@@ -67,3 +67,4 @@ contract ProofOfEffort {
         return (u.streak, u.lastCheckIn, u.xp);
     }
 }
+// contract initialized with baseURI
